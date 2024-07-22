@@ -1,0 +1,3 @@
+services:
+  sbt:
+    image: sbtscala/scala-sbt:eclipse-temurin-alpine-22_36_1.10.0_3.4.2
